@@ -8,7 +8,7 @@ Image Storyteller is a project that aims to generate natural language captions f
 To get started with using this tool, you might want to clone or download the repository.
 
 ```bash
-git clone https://github.com/tushaar9560/Image_Captioning
+git clone https://github.com/karanrojaria/Image-Captioning
 cd Image_Captioning
 ```
 
@@ -44,7 +44,7 @@ This project is open source and welcomes any contribution to fine-tune the model
 # 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-3b0363229/)
-[![instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/k_a_r_a_n.r_o_j_a_r_i_a/?hl=en))
+[![instagram](https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k_a_r_a_n.r_o_j_a_r_i_a/?hl=en)
 [![email](https://img.shields.io/badge/email-0088cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanrojaria@gmail.com)
 # License
 
